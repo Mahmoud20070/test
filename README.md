@@ -1,2 +1,1 @@
-# test
-# test
+This semi learning projects/ideas
